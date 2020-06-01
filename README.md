@@ -25,5 +25,19 @@ http://www.mackelab.org/delfi/tutorials/quickstart/#coming-back-to-the-observed-
 
 SRIM Pyhton Integration
 https://gitlab.com/costrouc/pysrim/-/tree/master/
+Tutorial
+https://pysrim.readthedocs.io/en/latest/tutorial.html
+Samples
+https://gitlab.com/costrouc/pysrim/blob/master/examples/notebooks/SiC.ipynb
+
+
+Installation 
+
+1- Install the PyCharm
+
+2- Install the Conda and Lets Conda manage the python Libraries 
+
+3- Install SRIM-PYTHON using the following code through PyCharm Terminal  
+> conda install -c costrouc pysrim
 
 
